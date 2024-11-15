@@ -63,8 +63,6 @@ def getGuideSales():
             prize = "" 
         print(f"{boxCount[i][0]}\t\t - {prize}") 
 
-
-
 def main():
     # YOUR CODE STARTS HERE, each line must be indented (one tab)
     greeting()
